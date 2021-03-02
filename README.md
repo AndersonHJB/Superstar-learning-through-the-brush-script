@@ -1,2 +1,3 @@
-# Superstar-learning-through-the-brush-script
-超星学习通刷客脚本
+## 超星学习通刷客脚本
+
+你好，我是悦创。如果觉得有用，记得点个 Star 。公众号：AI悦创。
